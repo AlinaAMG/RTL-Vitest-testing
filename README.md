@@ -9,8 +9,8 @@ Deze app is het meest complex en focust op de volledige data-flow: van invoer to
 Geteste Functionaliteiten:
 
 1.Formulier Validatie:
--Wordt de onSubmit mock functie aangeroepen met de juiste data?
--Verschijnen de juiste foutmeldingen als velden niet correct zijn ingevuld?
+#Wordt de onSubmit mock functie aangeroepen met de juiste data?.
+-Verschijnen de juiste foutmeldingen als velden niet correct zijn ingevuld?.
 2.Prop Passing & Rendering:
 -Controleer of de lijst met reviews (doorgegeven via props) correct wordt gerenderd op het scherm.
 -Test of lege lijsten een "No reviews yet" bericht tonen.
