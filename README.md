@@ -1,9 +1,9 @@
 
-### React Testing Playground 🧪
+# React Testing Playground 🧪
 
 Dit project bevat een verzameling kleine React-applicaties om te oefenen met testen via Vitest en React Testing Library (RTL).
 
-# 📂 Highlights: Reviews App
+## 📂 Highlights: Reviews App
 Deze app is het meest complex en focust op de volledige data-flow: van invoer tot weergave via props.
 
 Geteste Functionaliteiten:
